@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#282b33</color>
+    <color name="colorAccent">#FF6200EE</color>
+    <color name="subtitleTextColor">#333233</color>
+    <color name="bglinecolor">#606470</color>
+    <color name="background">#dddddd</color>
+    <color name="titleTextcolor">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
